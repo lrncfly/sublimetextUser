@@ -1,0 +1,6 @@
+{
+	// statusbar
+	"statusbar_branch": true
+	// Symbols for quick git status in status bar
+	,"statusbar_status": true
+}
