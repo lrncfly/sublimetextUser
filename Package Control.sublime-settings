@@ -1,0 +1,32 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Boxy Theme",
+		"Boxy Theme Addon - Font Face",
+		"Boxy Theme Addon - Widget Font Size",
+		"BracketHighlighter",
+		"Color Highlighter",
+		"Emmet",
+		"FindKeyConflicts",
+		"Git",
+		"GitGutter-Edge",
+		"HTML-CSS-JS Prettify",
+		"Increment Selection",
+		"LiveReload",
+		"Origami",
+		"Package Control",
+		"PackageResourceViewer",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-pep8",
+		"SublimeLinter-pylint",
+		"SyncedSideBar",
+		"Terminal",
+		"Unicode Character Highlighter",
+		"View In Browser"
+	]
+}
