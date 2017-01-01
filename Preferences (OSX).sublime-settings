@@ -2,7 +2,6 @@
 	"caret_style": "phase",
 	"ignored_packages":
 	[
-		"Emmet",
 		"Unicode Character Highlighter",
 		"Vintage"
 	],
