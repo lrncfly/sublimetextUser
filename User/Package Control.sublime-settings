@@ -12,11 +12,12 @@
 		"Color Highlighter",
 		"Emmet",
 		"FindKeyConflicts",
+		"Fix Mac Path",
 		"Git",
 		"GitGutter-Edge",
 		"HTML-CSS-JS Prettify",
 		"Increment Selection",
-		"LiveReload",
+		"JavaScript Completions",
 		"Origami",
 		"Package Control",
 		"PackageResourceViewer",
@@ -26,6 +27,8 @@
 		"SublimeLinter-pylint",
 		"SyncedSideBar",
 		"Terminal",
+		"tern_for_sublime",
+		"Typewriter",
 		"Unicode Character Highlighter",
 		"View In Browser"
 	]
