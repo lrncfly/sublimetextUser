@@ -7,6 +7,7 @@
 	[
 		"Boxy Theme",
 		"Boxy Theme Addon - Font Face",
+		"Boxy Theme Addon - Mono File Icons",
 		"Boxy Theme Addon - Widget Font Size",
 		"BracketHighlighter",
 		"Color Highlighter",
@@ -23,8 +24,7 @@
 		"PackageResourceViewer",
 		"SideBarEnhancements",
 		"SublimeLinter",
-		"SublimeLinter-pep8",
-		"SublimeLinter-pylint",
+		"SublimeLinter-jshint",
 		"SyncedSideBar",
 		"Terminal",
 		"tern_for_sublime",

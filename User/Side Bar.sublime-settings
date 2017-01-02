@@ -1,4 +1,4 @@
 {
-"statusbar_modified_time": true,
-"default_browser": "chrome"
+	"default_browser": "chrome",
+	"auto_close_empty_groups": true,
 }

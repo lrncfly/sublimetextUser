@@ -1,4 +1,5 @@
 {
+	"always_show_minimap_viewport": true,
 	"bold_folder_labels": true,
 	"caret_extra_bottom": 1,
 	"caret_extra_top": 1,
@@ -21,6 +22,7 @@
 	],
 	"line_padding_bottom": 2,
 	"line_padding_top": 1,
+	"show_encoding": false,
 	"show_line_endings": true,
 	"theme": "Boxy Solarized Dark.sublime-theme"
 }

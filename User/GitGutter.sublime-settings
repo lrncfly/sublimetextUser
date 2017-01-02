@@ -1,3 +1,5 @@
 {
+  "show_status": "none",
+  "diff_popup_default_mode": "default",
   "show_markers_on_untracked_file": true
 }
