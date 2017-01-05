@@ -13,6 +13,14 @@
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
+		"Color Highlighter",
+		"Emmet",
+		"Fix Mac Path",
+		"JavaScript Completions",
+		"LogView",
+		"SublimeLinter-jshint",
+		"tern_for_sublime",
+		"View In Browser",
 		"Vintage"
 	],
 	"indent_guide_options":
