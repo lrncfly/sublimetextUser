@@ -10,10 +10,7 @@
 		"Boxy Theme Addon - Mono File Icons",
 		"Boxy Theme Addon - Widget Font Size",
 		"BracketHighlighter",
-		"Color Highlighter",
-		"Emmet",
 		"FindKeyConflicts",
-		"Fix Mac Path",
 		"Git",
 		"GitGutter-Edge",
 		"Increment Selection",
@@ -30,9 +27,6 @@
 		"SublimeLinter-jshint",
 		"SyncedSideBar",
 		"Terminal",
-		"tern_for_sublime",
-		"Typewriter",
-		"Unicode Character Highlighter",
-		"View In Browser"
+		"Typewriter"
 	]
 }
