@@ -1,4 +1,3 @@
 {
-	"default_browser": "chrome",
-	"auto_close_empty_groups": true,
+	"auto_close_empty_groups": true
 }
