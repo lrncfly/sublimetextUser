@@ -1,7 +1,6 @@
 {
     "user": {
-        "@disable": true,
-        "debug": true,
+        "debug": false,
         "delay": 0.25,
         "error_color": "D02000",
         "gutter_theme": "Packages/SublimeLinter/gutter-themes/ProjectIcons/ProjectIcons.gutter-theme",
@@ -12,29 +11,11 @@
                 "@disable": false,
                 "args": [],
                 "excludes": []
-            },
-            "pep8": {
-                "@disable": true,
-                "args": [],
-                "excludes": [],
-                "ignore": "",
-                "max-line-length": null,
-                "select": ""
-            },
-            "pylint": {
-                "@disable": true,
-                "args": [],
-                "disable": "",
-                "enable": "",
-                "excludes": [],
-                "paths": [],
-                "rcfile": "",
-                "show-codes": false
             }
         },
-        "mark_style": "outline",
+        "mark_style": "squiggly underline",
         "no_column_highlights_line": false,
-        "passive_warnings": false,
+        "passive_warnings": true,
         "paths": {
             "linux": [],
             "osx": [],
@@ -53,7 +34,6 @@
             "html (django)": "html",
             "html (rails)": "html",
             "html 5": "html",
-            "JavaScript": "javascript",
             "javascript (babel)": "javascript",
             "magicpython": "python",
             "php": "html",
