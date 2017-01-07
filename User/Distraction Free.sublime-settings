@@ -1,0 +1,9 @@
+{
+	"always_show_minimap_viewport": true,
+	"line_numbers":true,
+	"gutter": true,
+	"rulers": [80],
+	"word_wrap": false,
+	"draw_centered": false,
+	"typewriter_mode_scrolling" : true,
+}
