@@ -11,7 +11,7 @@
                 "@disable": false,
                 "args": [],
                 "excludes": []
-            },
+            }
         },
         "mark_style": "squiggly underline",
         "no_column_highlights_line": false,
