@@ -11,6 +11,24 @@
                 "@disable": false,
                 "args": [],
                 "excludes": []
+            },
+            "pep8": {
+                "@disable": false,
+                "args": [],
+                "excludes": [],
+                "ignore": "",
+                "max-line-length": null,
+                "select": ""
+            },
+            "pylint": {
+                "@disable": false,
+                "args": [],
+                "disable": "",
+                "enable": "",
+                "excludes": [],
+                "paths": [],
+                "rcfile": "",
+                "show-codes": false
             }
         },
         "mark_style": "squiggly underline",
