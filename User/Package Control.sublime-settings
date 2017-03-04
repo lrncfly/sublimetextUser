@@ -5,6 +5,7 @@
 	],
 	"installed_packages":
 	[
+		"A File Icon",
 		"Boxy Theme",
 		"Boxy Theme Addon - Font Face",
 		"Boxy Theme Addon - Mono File Icons",
@@ -15,10 +16,11 @@
 		"FindKeyConflicts",
 		"Fix Mac Path",
 		"Git",
-		"GitGutter-Edge",
+		"GitGutter",
 		"Increment Selection",
 		"JavaScript Completions",
 		"LogView",
+		"MarkdownLivePreview",
 		"Origami",
 		"Package Control",
 		"PackageResourceViewer",

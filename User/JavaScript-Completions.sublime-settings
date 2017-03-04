@@ -1,4 +1,5 @@
 {
 	"HTMLCanvasElement": true,
 	"CanvasRenderingContext2D": true,
+	"Navigator": true
 }

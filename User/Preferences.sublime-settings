@@ -46,6 +46,10 @@
 	{
 		"caret_style": "phase",
 		"close_windows_when_empty": false,
+		"file_exclude_patterns":
+		[
+			".DS_Store"
+		],
 		"find_selected_text": true,
 		"font_face": "Input mono",
 		"font_size": 14,
